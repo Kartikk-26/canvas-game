@@ -28,6 +28,10 @@
  * Block(space bar)
  
   <img src="/images/6.png">
+  
+  * Jump(press w)
+  
+  <img src="/images/7.png">
 
 
 
